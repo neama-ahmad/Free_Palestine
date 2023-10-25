@@ -1,0 +1,81 @@
+
+.Palestine-section{
+    font-family: 'Short Stack', cursive;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(236, 183, 98);
+    margin: 0;
+    width: 100%;
+    height: 50px;
+    padding: 16px;
+    margin-top: 20px;
+    bottom: 0;
+    position: fixed;
+}
+
+.Palestine-section p{
+  display: flex;
+  padding-left: 20px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+}
+
+.flag{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80px;
+    height: auto;
+    position: relative;
+}
+.column{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    width: 100%;
+    height: 16px;
+}
+.white{
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
+
+.red-triangle{
+    display: flex;
+    flex-direction: column;
+    width: 0;
+    height: 0;
+    border-top: 24px solid transparent;
+    border-bottom: 24px solid transparent;
+    border-left: 24px solid red;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media(max-width:1200px){
+
+    .Palestine-section{
+        width: 100%;
+        height: 40px;
+        padding: 14px;
+    }
+    .Palestine-section p{
+        font-size: 14px;
+    }
+
+    .column{
+        width: 100%;
+        height: 14px;
+    }
+
+    .red-triangle{
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+        border-left: 20px solid red;
+    }
+
+}
