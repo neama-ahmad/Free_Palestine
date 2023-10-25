@@ -53,4 +53,4 @@ first open your home page file and add these lines of code ..
     </div>
 
     
-ثالثا: أضف الملف flagStyle.css داخل مجلد الcss أو المجلد الخاص بالstyl في موقعك..تجد ملف flagStyle.css هنا.. 
+ثالثا: أضف الملف flagStyle.css داخل مجلد الcss أو المجلد الخاص بالstyle في موقعك..تجد ملف flagStyle.css هنا.. 
