@@ -33,7 +33,8 @@ first open your home page file and add these lines of code ..
 
 
 
-أولا: أذهب إلى ملف الصفحة الرئيسية وبين التاق <head></head> أضف الكود التالي..
+أولا: أذهب إلى ملف الصفحة الرئيسية أضف الكود التالي بين التاق <head></head>
+
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -42,7 +43,7 @@ first open your home page file and add these lines of code ..
 
 
     
-ثانيا: داخل التاق <body></body> في آخر الكود أضف الكود التالي..
+ثانيا:أضف الكود التالي داخل التاق <body></body>..
 
     <div class="Palestine-section">
         <div class="flag">
