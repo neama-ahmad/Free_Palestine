@@ -31,6 +31,7 @@ first open your home page file and add these lines of code ..
 أضف علم فلسطين في موقعك الالكتروني لدعم قضيتهم..
 
 
+
 أولا: بين التاق <head></head> أضف الكود التالي..
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
